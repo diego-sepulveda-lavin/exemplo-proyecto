@@ -10,6 +10,7 @@ export const Home = () => {
     <div className="text-center mt-5">
       <h1>Super Login</h1>
       <p>Super landing</p>
+      <p>sigo con mi super landing</p>
     </div>
   );
 };
